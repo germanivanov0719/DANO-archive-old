@@ -1,0 +1,2 @@
+DANO[[:space:]]2023[[:space:]]Data/German/KION/kion_dataset_interactions filter=lfs diff=lfs merge=lfs -text
+DANO[[:space:]]2023[[:space:]]Data/German/Bank/*.csv filter=lfs diff=lfs merge=lfs -text
